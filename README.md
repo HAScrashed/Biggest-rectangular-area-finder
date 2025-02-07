@@ -13,3 +13,18 @@ Main file is menu.bat:
 - help - about
 - backup - creates ZIP folder with IN, OUT and raport files
 ### Media
+- **Input file schema**
+  
+![Input file schema](Preview/in.png)
+---
+- **Result file schema**
+  
+![Result file schema](Preview/result.png)
+---
+- **Preview in browser**
+  
+![Preview in browser](Preview/html.png)
+---
+- **menu.bat**
+  
+![menu.bat](Preview/menu.png)
