@@ -1,0 +1,25 @@
+table {
+	width:80%;
+	padding:2px;
+	border-collapse: collapse;
+	border: 1px solid;
+}
+
+td, tr {
+	border-bottom: 1px solid black; 
+	text-align:center;
+}
+
+th {
+	color: white;
+	background-color: green;
+}
+
+td {
+	width:33%;
+}
+
+
+td {
+	padding: 10px;
+}

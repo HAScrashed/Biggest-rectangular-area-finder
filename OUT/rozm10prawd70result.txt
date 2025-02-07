@@ -1,0 +1,9 @@
+Biggest rectangular area: 16
+
+Max area has been found in ROW 2-5 / COL 7-11
+With following shape:
+
+0000
+0000
+0000
+0000

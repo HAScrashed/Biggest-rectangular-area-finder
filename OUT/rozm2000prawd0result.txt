@@ -1,0 +1,5 @@
+Biggest rectangular area: 0
+
+Max area has been found in 
+With following shape:
+
