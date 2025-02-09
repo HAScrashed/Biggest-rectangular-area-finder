@@ -1,7 +1,7 @@
 # About
 ## Made by Bartosz Sorek
 The task was to make fast sytem that finds the biggest RECTANGULAR area in given file, file has square "plot" with zeroes and ones, script searches for biggest rectangle made of zeroes.    
-The first line of file tells the number of rows and columns indicating the square "plot".    
+The first line of file tells the number of rows and columns indicating the square "plot" size.    
 ### The python script 
 Script searches for the biggest area in given text file. Script finds biggest rectangular area made of zeroes, shows the calculated result (area), bounds and shape.    
 Script is quite fast and has low memory usage.
